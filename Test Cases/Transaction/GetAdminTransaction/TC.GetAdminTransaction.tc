@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.GetAdminTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7e3a2dd-8397-4861-9cbe-d7e859eec5f8</testCaseGuid>
+</TestCaseEntity>

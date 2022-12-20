@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.CreateTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ff5baac-0094-45bd-befb-12a5cd74ecdd</testCaseGuid>
+</TestCaseEntity>

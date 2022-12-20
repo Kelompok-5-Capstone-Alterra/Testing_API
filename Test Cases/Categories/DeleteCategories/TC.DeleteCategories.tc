@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.DeleteCategories</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cf270af-4448-4d32-be77-041e724fcb02</testCaseGuid>
+</TestCaseEntity>

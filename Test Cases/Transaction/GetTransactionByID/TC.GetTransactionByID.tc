@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.GetTransactionByID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>052cb66a-65df-456c-93b3-02a68b76364c</testCaseGuid>
+</TestCaseEntity>

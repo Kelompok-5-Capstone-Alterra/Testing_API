@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.DeleteProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>437eb850-3b4f-49e0-bf79-7880a636877c</testCaseGuid>
+</TestCaseEntity>

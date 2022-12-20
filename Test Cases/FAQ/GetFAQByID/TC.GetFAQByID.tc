@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.GetFAQByID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c168f1d5-101e-4edc-a77a-e3ce360de75b</testCaseGuid>
+</TestCaseEntity>

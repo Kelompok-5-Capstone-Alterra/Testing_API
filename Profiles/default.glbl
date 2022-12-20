@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>created</description>
+      <initValue>201</initValue>
+      <name>statusCode201</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>METHOD NOT ALLOWED</description>
+      <initValue>405</initValue>
+      <name>statusCode405</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>BAD REQUEST</description>
+      <initValue>400</initValue>
+      <name>statusCode400</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>OK</description>
+      <initValue>200</initValue>
+      <name>statusCode200</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>already exist</description>
+      <initValue>403</initValue>
+      <name>statusCode403</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>not found</description>
+      <initValue>404</initValue>
+      <name>statusCode404</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Unauthorized</description>
+      <initValue>401</initValue>
+      <name>statusCode401</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Conflict</description>
+      <initValue>409</initValue>
+      <name>statusCode409</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>internal server error</description>
+      <initValue>500</initValue>
+      <name>statuscode500</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>user not found</description>
+      <initValue>204</initValue>
+      <name>statusCode204</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVkX2F0IjoiMjAyMi0xMi0xOVQyMzo0NToyMS4yMTc4OTUzNzUrMDg6MDAiLCJkYXRhIjp7Im5hbWUiOiJzYXJhaCIsImVtYWlsIjoiYWx0ZXJyYTVjYXBzdG9uZUBnbWFpbC5jb20iLCJtb2JpbGVfbnVtYmVyIjoiKzYyODIzNDU2Nzg5MSIsInJvbGUiOnsiaWQiOjIsIm5hbWUiOiJ1c2VyIiwiY3JlYXRlZF9hdCI6IjIwMjItMTItMThUMTQ6Mzk6MTErMDg6MDAiLCJ1cGRhdGVkX2F0IjoiMjAyMi0xMi0xOFQxNDozOToxMSswODowMCJ9LCJ1c2VyX2NvaW4iOnsiaWQiOjAsImFtb3VudCI6MH0sImNyZWRpdCI6eyJpZCI6MCwiYW1vdW50IjowfX0sInN1YiI6IjNkNTM4OTZmLTE4MzgtNDg4Yy1iNjA0LWM5NDFkNTNkOTAxYSJ9.Co0qlavx2mgxpBt5rGKDTIYMM3Kpsfqj4dLCtA67gEA'</initValue>
+      <name>globalVar</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sfeOUq'</initValue>
+      <name>passToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVkX2F0IjoiMjAyMi0xMi0xNVQyMToyMDo0Ni4wNTk0MTQ1NyswODowMCIsImRhdGEiOnsibmFtZSI6IkFETUlOIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJtb2JpbGVfbnVtYmVyIjoiMDgxMzQ1Njc4OTEiLCJyb2xlIjp7ImlkIjoxLCJuYW1lIjoiYWRtaW4iLCJjcmVhdGVkX2F0IjoiMjAyMi0xMi0xMVQwNjoxODoyNSswODowMCIsInVwZGF0ZWRfYXQiOiIyMDIyLTEyLTExVDA2OjE4OjI1KzA4OjAwIn0sInVzZXJfY29pbiI6eyJpZCI6MCwiYW1vdW50IjowfSwiY3JlZGl0Ijp7ImlkIjowLCJhbW91bnQiOjB9fSwic3ViIjoiNTliMDEwNGYtMmZiYy00ZjEzLThlMDctZjdlNjY3NzFkZmI0In0.iEOpI6LNQM89dIIrqryU0jqzSoLwD0ns737AzC37HnQ'</initValue>
+      <name>globalVarAdm</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://goapi.kuroyamii.works'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
